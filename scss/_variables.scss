@@ -1,0 +1,17 @@
+// 🎨 Colores corporativos
+$primary: #004aad;
+$secondary: #f5a623;
+$success: #2ecc71;
+$danger: #e74c3c;
+
+// ➕ Colores extra
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "brand": #d9b62b
+);
+
+// 🔤 Tipografías
+$font-family-sans-serif: 'Montserrat',  sans-serif;
+$headings-font-family: 'Montserrat', sans-serif;
+$headings-font-weight: 700;
