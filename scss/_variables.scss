@@ -3,11 +3,18 @@ $primary: #004aad;
 $secondary: #f5a623;
 $success: #2ecc71;
 $danger: #e74c3c;
+$info: #2801d7;
+$warning: #f1c40f;
+
 
 // ➕ Colores extra
 $theme-colors: (
   "primary": $primary,
   "secondary": $secondary,
+  "success": $success,
+  "danger": $danger,
+  "info": $info,
+  "warning": $warning,
   "brand": #d9b62b
 );
 
